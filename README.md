@@ -1,8 +1,7 @@
-<h1 align="center">💻 无需服务器代理软件的外网访问方案：SSH反向隧道结合Clash实现</h1>
+<h1 align="center">💻 SSH 反向隧道 + Clash 外网访问</h1>
 
-<p align="center">
-  <i> —— 2025.12.8</i>
-</p>
+<p align="center"><em>—— 无需在服务器安装代理软件即可访问外网</em></p>
+<p align="center"><em>—— 2025.12.08</em></p>
 
 
 
